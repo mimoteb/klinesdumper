@@ -1,0 +1,3 @@
+https://github.com/binance/binance-public-data
+https://data.binance.vision/?prefix=data/spot/daily/klines/
+python .\dumpklines.py -s BTCUSDT -i 1h
